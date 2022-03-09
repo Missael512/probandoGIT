@@ -1,3 +1,4 @@
+#Esta es la version 2
 linea2=["Cuatro caminos","Panteones","Tacuba","Cuitlahuac","Popotla","Colegio militar","Normal","San cosme","Revolucion","Hidalgo","Bellas artes","Allende","Zocalo","Pino suares","San antonio abad","Chabacano","Viaducto","Xola","Villa de cortes","Nativitas","Portales","Ermita","General anaya","Tasquena"]
 
 print("Linea disponible: Linea [2]")
